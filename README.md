@@ -5,8 +5,8 @@
 - **Windows 8 teması**
 > Uygulama içerisinde kullanıcı ve kitap sekmeleri aktiftir. Diğer sekmeler işlevsel olarak benzerlik taşımaktadır. Geliştirmeye açıktır.
 
-[![interface](resimler/1.png "Interface")]()
+[![interface](Resimler/1.png "Interface")]()
 
 - **Altta oluşan menü bar sayesinde veri üzerinde istenilen değişiklikler veya filtrelemeler yapılabilir.
 
-[![interface](resimler/2.png "Interface")]()
+[![interface](Resimler/2.png "Interface")]()
